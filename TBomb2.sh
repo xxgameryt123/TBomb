@@ -25,20 +25,20 @@ rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
 figlet TBomb
-echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border SpeedX
-echo -e "\e[4;34m This Bomber Was Created By SpeedX \e[0m"
+echo -e "\e[1;34m Creato da \e[1;32m"
+toilet -f mono12 -F border XxGamerYT
+echo -e "\e[4;34m TBomb Creato da XxGamerYT \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+echo -e "\e[1;32m           Mail: comming soon"
+echo -e "\e[4;32m   YouTube Page: XxGamerQSDProXx ElectroFazYT \e[0m"
 echo " "
-echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
+echo -e "\e[4;31m aspetta i prossimi aggiornamenti  !!! \e[0m"
 echo " "
-echo "Press 1 To  Start SMS Bomber "
-echo "Press 2 To  Start Call Bomber "
-echo "Press 3 To  Update (Works On Linux And Linux Emulators) "
-echo "Press 4 To  View Features "
-echo "Press 5 To  Exit "
+echo "💥Premi 1 per avviare lo spam sms💥 "
+echo "🔥Premi 2 per avviare lo spam di chiamate🔥 "
+echo "⚡Premi 3 per aggiornarmi (disponibile per Kali Linux e termux)⚡ "
+echo "🌀Premi 4 per vedere gli aggiornamenti🌀 "
+echo "🌠Premi 5 per uscire🌠 "
 read ch
 if [ $ch -eq 1 ];then
 clear
